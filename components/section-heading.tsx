@@ -1,4 +1,5 @@
 import React from "react";
+
 type SectionHeadingProps = {
   children: React.ReactNode;
 };
